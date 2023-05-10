@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhii</h1>
-<!-- <h3 align="center">Full Stack student from Ukraine</h3> -->
+<!-- <h3 align="center">Full Stack from Ukraine</h3> -->
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2FD00&width=435&lines=Full+Stack+student+from+Ukraine" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CrabSerg&label=Profile%20views&color=0e75b6&style=flat" alt="CrabSerg" /> </p>
